@@ -30,7 +30,7 @@ function Main() {
   };
 
   return (
-    <div className="main">
+    <div className="main-thanh">
       <div className="recommendedCar">
         <h2 style={{ fontFamily: "sans-serif" }}>Recommended Cars</h2>
         <div className="option1">
