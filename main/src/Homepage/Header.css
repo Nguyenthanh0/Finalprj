@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+
+}
+
+.header {
+    position: relative;
+    background-color: #0B0C10;
+    height: 811px;
+}
+
+
+.message {
+    position: absolute;
+    top: 180px;
+    left: 200px;
+    color: #FFFF;
+}
+
+h1 {
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 57.6px;
+    font-family: sans-serif;
+
+}
+
+p {
+    width: 329px;
+    font-size: 24px;
+    font-weight: 300;
+    font-family: sans-serif;
+}
+
+.navbar {
+    position: absolute;
+    top: 0px;
+}
