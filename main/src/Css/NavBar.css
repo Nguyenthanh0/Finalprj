@@ -20,8 +20,8 @@ a:-webkit-any-link {
     align-items: center;
     gap: 120px;
     opacity: 1px;
-    width: 100%;
-    max-width: 1550px;
+    width: 1519px;
+    /* max-width: 1550px; */
     padding-top: 10px;
 
 }

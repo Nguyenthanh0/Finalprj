@@ -8,15 +8,15 @@ import Navbar from "../Components/NavBar";
 function Header() {
   return (
     <>
-      <div className="header">
+      <div className="header-thanh">
         <Carousel></Carousel>
         <div className="message">
           <h1>Find your dream car</h1>
-          <p style={{ width: "329px" }}>
+          <p className="p-thanh" style={{ width: "329px" }}>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit.{" "}
           </p>
         </div>
-        <div className="navbar">
+        <div className="navbar-header-thanh">
           <Navbar></Navbar>
         </div>
       </div>

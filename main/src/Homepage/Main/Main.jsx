@@ -48,7 +48,7 @@ function Main() {
           </h3>
           <p>See more </p>
         </div>
-        <div className="car-list">
+        <div className="car-list-thanh">
           {car.map((car) => (
             <RecommendedCars key={car.id} car={car} />
           ))}

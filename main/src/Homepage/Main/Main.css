@@ -100,7 +100,7 @@
     font-size: 14px;
 }
 
-.car-list {
+.car-list-thanh {
     display: flex;
     gap: 30px;
 }

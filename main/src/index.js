@@ -10,6 +10,9 @@ import {
 import Homepage from './Homepage';
 import NewCar from './Components/View/NewCar/NewCar';
 import UsedCar from './Components/View/UsedCar/UsedCar';
+import Login from './componentOfThanh/Login';
+import Register from './componentOfThanh/Register';
+
 const router = createBrowserRouter([
   {
     path: "/",
@@ -27,6 +30,14 @@ const router = createBrowserRouter([
     path: "/usedcars",
     element: <UsedCar></UsedCar>,
   },
+  {
+    path: "/login",
+    element: <Login></Login>
+  },
+  {
+    path: "/register",
+    element: <Register></Register>
+  }
 ]);
 
 ReactDOM.createRoot(document.getElementById("root")).render(

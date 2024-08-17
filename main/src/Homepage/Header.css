@@ -5,7 +5,7 @@
 
 }
 
-.header {
+.header-thanh {
     position: relative;
     background-color: #0B0C10;
     height: 811px;
@@ -19,7 +19,7 @@
     color: #FFFF;
 }
 
-h1 {
+.message>h1 {
     font-size: 48px;
     font-weight: 600;
     line-height: 57.6px;
@@ -27,14 +27,14 @@ h1 {
 
 }
 
-p {
+.p-thanh {
     width: 329px;
     font-size: 24px;
     font-weight: 300;
     font-family: sans-serif;
 }
 
-.navbar {
+.navbar-header-thanh {
     position: absolute;
     top: 0px;
 }

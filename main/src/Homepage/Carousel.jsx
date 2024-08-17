@@ -2,7 +2,8 @@ import React, { useState, useEffect, useRef } from "react";
 import "./Carousel.css";
 import car1 from "../images/imghp.png";
 import car4 from "../images/car4.png";
-import car3 from "../images/car3.png";
+// import car3 from "../images/car3.png";
+import car3 from "../images/car2.png";
 import Navbar from "../Components/NavBar";
 
 const images = [car1, car4, car3];
